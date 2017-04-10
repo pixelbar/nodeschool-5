@@ -1,0 +1,11 @@
+{
+  "name": "NodeSchool Rotterdam #5",
+  "version": "1.0.0",
+  "description": "Uploading a file to AWS S3",
+  "main": "index.js",
+  "author": "David van Leeuwen",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.40.0"
+  }
+}
