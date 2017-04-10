@@ -1,5 +1,5 @@
 {
-  "name": "NodeSchool Rotterdam #5",
+  "name": "NodeSchool-Rotterdam-5",
   "version": "1.0.0",
   "description": "Uploading a file to AWS S3",
   "main": "index.js",
